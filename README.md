@@ -1,4 +1,4 @@
-# urbtix auto Clicker
+# Urbtix Auto Clicker
 
 This is an auto clicker only. Nothing special. 
 
@@ -8,5 +8,8 @@ This is an auto clicker only. Nothing special.
     2. Run the AUTO click button
     3. Wait for the Shopping cart button enable
 
+## How to use?
+![image](src/image/howToUse.png)
+- Wait until success to click in
 ### Helmet
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
